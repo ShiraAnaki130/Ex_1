@@ -1,4 +1,4 @@
-package monheAzamim;
+package ex1;
 public interface node_info {
     /**
      * Return the key (id) associated with this node.

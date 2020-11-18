@@ -1,4 +1,4 @@
-package monheAzamim;
+package ex1;
 import java.util.HashMap;
 /**
  *This class represents a collection of all the neighbors of a current node (vertex),
